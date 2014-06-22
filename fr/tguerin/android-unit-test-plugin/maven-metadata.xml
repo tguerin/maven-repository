@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fr.tguerin</groupId>
+  <artifactId>android-unit-test-plugin</artifactId>
+  <version>0.1.0</version>
+  <versioning>
+    <versions>
+      <version>0.1.0</version>
+    </versions>
+    <lastUpdated>20140622214538</lastUpdated>
+  </versioning>
+</metadata>

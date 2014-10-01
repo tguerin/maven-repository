@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jakewharton.espresso</groupId>
+  <artifactId>espresso-support-v4</artifactId>
+  <version>1.1-r3-patched</version>
+  <versioning>
+    <versions>
+      <version>1.1-r3-patched</version>
+    </versions>
+    <lastUpdated>20141001151447</lastUpdated>
+  </versioning>
+</metadata>
